@@ -1,0 +1,23 @@
+{
+  "name": "commonform-agreement-starter",
+  "version": "1.0.0",
+  "description": "Starting point for a traditionally structured contract, written in plain-text Common Form markup and rendered to Microsoft Word .docx with command-line tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legalese/commonform-agreement-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/legalese/commonform-agreement-starter/issues"
+  },
+  "homepage": "https://github.com/legalese/commonform-agreement-starter#readme",
+  "dependencies": {
+    "commonform-cli": "^0.23.0"
+  }
+}
