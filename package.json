@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/legalese/commonform-agreement-starter#readme",
   "dependencies": {
-    "commonform-cli": "^0.23.0"
+    "commonform-cli": "^0.23.0",
+    "handlebars": "^4.0.10"
   }
 }
